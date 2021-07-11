@@ -1,0 +1,19 @@
+推进器.png
+size:419,419
+filter:Linear,Linear
+pma:true
+发光
+bounds:8,231,180,180
+推进器主体
+bounds:108,10,74,92
+rotate:90
+推进器主体 - 工作状态
+bounds:8,8,74,92
+rotate:90
+推进器发光指示灯
+bounds:142,168,55,38
+rotate:90
+火车头火焰1
+bounds:76,92,58,131
+火车头火焰2
+bounds:8,90,60,133

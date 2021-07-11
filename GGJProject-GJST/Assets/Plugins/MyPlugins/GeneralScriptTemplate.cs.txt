@@ -1,0 +1,7 @@
+using System;
+using System.Collections.Generic;
+using UnityEngine;
+// Created By Yu.Liu
+public class #SCRIPTNAME##PARENTNAME# #INTERFACENAME# {
+	// Script Code
+}
